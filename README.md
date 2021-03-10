@@ -8,10 +8,10 @@ The reason for creating this game was to learn the basics of Unity, while creati
 
 Some screenshots of the game are shown below.
 
-![alt text](https://github.com/CamilAbraham/JumpingZoo/blob/main/JumpingZoo1.PNG?raw=true)
+![Main menu](https://github.com/CamilAbraham/JumpingZoo/blob/main/JumpingZoo1.PNG?raw=true)
 
-![alt text](https://github.com/CamilAbraham/JumpingZoo/blob/main/JumpingZoo3.PNG?raw=true)
+![Game](https://github.com/CamilAbraham/JumpingZoo/blob/main/JumpingZoo3.PNG?raw=true)
 
-![alt text](https://github.com/CamilAbraham/JumpingZoo/blob/main/JumpingZoo2.PNG?raw=true)
+![Game over](https://github.com/CamilAbraham/JumpingZoo/blob/main/JumpingZoo2.PNG?raw=true)
 
-![alt text](https://github.com/CamilAbraham/JumpingZoo/blob/main/JumpingZoo4.PNG?raw=true)
+![Character selection](https://github.com/CamilAbraham/JumpingZoo/blob/main/JumpingZoo4.PNG?raw=true)
